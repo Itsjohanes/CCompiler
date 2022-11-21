@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="UTF-8" />
-    <title>Online C Compiller Alproko</title>
+    <title>Online C Compiller PromDas</title>
 
     <link rel="stylesheet" href="ui/css/style.css" />
 </head>
 
 <body>
-    <div class="header">Alproko IDE</div>
+    <div class="header">PromDas IDE</div>
     <div class="control-panel">
         Select Language: &nbsp; &nbsp;
         <select id="languages" class="languages" onchange="changeLanguage()">
